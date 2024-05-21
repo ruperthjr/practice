@@ -47,7 +47,7 @@ class Wordle {
     }
   }
   
-  // Example:
+  // Example usage:
   const wordleGame = new Wordle("apple");
   wordleGame.makeGuess("apricot");
   wordleGame.makeGuess("orange");
